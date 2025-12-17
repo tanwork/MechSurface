@@ -1,6 +1,6 @@
 # MechSurface
 
-- Author: Long Tan, Chen Xu, Xiuzhen Guo, 
+- Author: Long Tan, Xu Chen, Xiuzhen Guo, 
 - Contact: {tanlongwork,  chenxu_3@zju.edu.cn, guoxiuzhen94}@gmail.com, 
 - Description: This repo hosts the hardware structure and driver code for the implementation of MechSurface.
 
@@ -11,4 +11,5 @@
   * CodeForMoterDriver\moterDriver.ino: Control driver code for beam steering.
 
 ## License
+
 The hardware and software source code of the MechSurface platform is distributed under academic license to ensure the reproducibility of our results. The hardware and software can NOT be used for commercial purpose.
